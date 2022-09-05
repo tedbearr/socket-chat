@@ -1,2 +1,2 @@
 # socket-chat
-Client: React JS, Server: Node JS
+ReactJS, NodeJS, Socket.io
